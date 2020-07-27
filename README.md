@@ -3,4 +3,4 @@
 - tốc độ ảnh hưởng sd thư viện nhanh hơn
 
  <img src="2020-07-22 00.05.53.gif">
- <img src="2020-07-22 00.05.53.gif">
+ <img src="2020-07-28 00.08.30.gif">
