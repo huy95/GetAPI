@@ -1,0 +1,14 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'URLSection+Alamofire' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for URLSection+Alamofire
+    pod 'Alamofire'
+    pod 'ObjectMapper'
+    pod 'AlamofireObjectMapper'
+    pod 'AlamofireImage'
+
+end
